@@ -4,5 +4,6 @@ I have hands on experience in big data technologies like Hadoop  and Spark.
 Skills: Python, Scala, Hadoop, Map Reduce, Hive, Sqoop, HBase, Apache Spark, Spark Streaming, Kafka. 
 Scheduling tool: Autosys.
 Cloud domain: AWS.
+Ticketing Tool: Service Now
 
 
